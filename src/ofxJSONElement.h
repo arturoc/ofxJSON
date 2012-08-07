@@ -10,8 +10,6 @@
 #ifndef _OFX_JSON
 #define _OFX_JSON
 
-#include <iostream>
-#include <fstream>
 #include <json/json.h>
 #include "ofMain.h"
 
